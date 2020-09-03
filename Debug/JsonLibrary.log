@@ -1,0 +1,9 @@
+﻿  JsonLibrary.cpp
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(316,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(345,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(349,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(356,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(594,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(638,9): warning C4018: '>': signed/unsigned mismatch
+C:\Users\idane\source\repos\JsonLibrary\JsonLibrary.cpp(648,9): warning C4018: '>': signed/unsigned mismatch
+  JsonLibrary.vcxproj -> C:\Users\idane\source\repos\Chat\Debug\JsonLibrary.lib
